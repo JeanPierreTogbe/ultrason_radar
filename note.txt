@@ -1,0 +1,5 @@
+Requirement
+***********
+Tkinter installation : sudo apt-get install python3-tk
+Wand installing : pip install Wand
+Install ImageMagick on Debian/Ubuntu : sudo apt-get install libmagickwand-dev
